@@ -4,6 +4,7 @@
 ## Table of contents
 - [Description](#description)
 - [How to Run Project](#how-to-run-project)
+- [Credentials](#credentials)
 - [Attribution](#attribution)
 - [Copyright and license](#copyright-and-license)
 
@@ -26,20 +27,22 @@
           ```
           npm i
           ```
-          or
-          ```
-          yarn install
-          ```
           
       3. Start the app:
           ```
           npm start
           ```
-          or
-          ```
-          yarn start
-          ```
-      
+
+## Credentials
+you can sign up or you can use one of the following accounts:
+| Email | Password 
+|-----------------|------------------|
+| test@matthew.com | @matthew.2 
+| test@molly.com | @molly.3 
+| test@chris.com | @chris.1 
+| test@veronica.com | @veronica.4 
+
+
 
 ## Attribution
 * [React](https://reactjs.org/)
